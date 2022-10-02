@@ -3,12 +3,13 @@
 </div>
 
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romandviski&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
-
-### Hi there 👋
-https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 
 
 
@@ -18,6 +19,10 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 
 <!--
 **romandviski/romandviski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
+https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
+
 
 Here are some ideas to get you started:
 
