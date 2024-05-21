@@ -42,6 +42,8 @@
 ### Hi there 👋
 https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 
+Документация по форматированию: 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Here are some ideas to get you started:
 
