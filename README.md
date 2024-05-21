@@ -3,12 +3,16 @@
 </div>
 
 # 💫 About Me:
-Абсолютный Михаил это я =)
-<br>Сейчас работаю над игрой Дуэлянт.
+## Абсолютный Михаил это я =)
+### Сейчас работаю над игрой ДУЭЛЯНТ.
+### [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant)
+<div id="header" align="center">
+  <img src="https://i.ytimg.com/vi/QF5KlZHlQ6M/maxresdefault.jpg" width="600"/>
+</div>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/UnrealEngine-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NkwZ8pqyS6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikhail-e/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@i_created_this) 
