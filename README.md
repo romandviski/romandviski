@@ -4,7 +4,7 @@
 
 # 💫 Обо мне:
 ## Абсолютный Михаил это я =)
-### Сейчас работаю над игрой ДУЭЛЯНТ. Добавляй в желаемое [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant).
+### Сейчас работаю над игрой ДУЭЛЯНТ. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant).
 <div id="header" align="center" width="600">
   
   <br/>[![Трейлер](https://i.ytimg.com/vi/QF5KlZHlQ6M/maxresdefault.jpg)](https://youtu.be/QF5KlZHlQ6M?list=PLpsRQjMJIh4sX0KF09hJf69BwBvLgWAul)
