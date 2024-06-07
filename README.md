@@ -3,26 +3,25 @@
 </div>
 
 # 💫 Обо мне:
-## Абсолютный Михаил это я =)
+## Ефремов Михаил разработчик, Абсолютный Михаил, это всё я =)
 ### Сейчас работаю над игрой ДУЭЛЯНТ. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant).
 <div id="header" align="center" width="600">
   
   <br/>[![Трейлер](https://i.ytimg.com/vi/QF5KlZHlQ6M/maxresdefault.jpg)](https://youtu.be/QF5KlZHlQ6M?list=PLpsRQjMJIh4sX0KF09hJf69BwBvLgWAul)
 </div>
   
-# 💻 Tехнологии:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/UnrealEngine-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 💻 Tехнологии:
+![My Skills](https://skillicons.dev/icons?i=cpp,unreal,git)
 ---
 ## 🌐 Соцсеточки:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NkwZ8pqyS6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikhail-e/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@i_created_this) 
 
-# 📊 GitHub стата:
+## 📊 GitHub стата:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=romandviski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=romandviski&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romandviski&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=romandviski&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=romandviski&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 ## 🏆 GitHub Trophies
