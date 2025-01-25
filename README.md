@@ -27,6 +27,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
   </a> 
+    <a href="https://t.me/AbsoluteUnderground" target="_blank" rel="noreferrer"> 
+    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/452115/telegram.svg" />   
+    <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/452115/telegram.svg" /> 
+    <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="32" height="32" /> </picture> 
+  </a> 
   <a href="https://discord.gg/NkwZ8pqyS6" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />   
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
@@ -39,6 +44,8 @@
   </a>  
 </p>
 
+## 💰 Подкинь на кофеёк 👍
+[![Donation Alerts](https://img.shields.io/badge/%D0%9A%D1%83%D0%BF%D0%B8%20%D0%BA%D0%BE%D1%84%D0%B5%D1%91%D0%BA-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.donationalerts.com/r/mikhail_e) 
 
 ## 📊 GitHub стата:
 <!--
@@ -54,8 +61,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=romandviski&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Подкинь на кофеёк 👍
-  [![Donation Alerts](https://img.shields.io/badge/%D0%9A%D1%83%D0%BF%D0%B8%20%D0%BA%D0%BE%D1%84%D0%B5%D1%91%D0%BA-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.donationalerts.com/r/mikhail_e) 
+
 
 
 
