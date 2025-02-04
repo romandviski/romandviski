@@ -48,6 +48,8 @@
 [![Donation Alerts](https://img.shields.io/badge/%D0%9A%D1%83%D0%BF%D0%B8%20%D0%BA%D0%BE%D1%84%D0%B5%D1%91%D0%BA-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.donationalerts.com/r/mikhail_e) 
 
 ## 📊 GitHub стата:
+Я анрильщик плюсовик, надо просто больше проектов залить...
+<br/>HTML это ошибки молодости =)
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=romandviski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 -->
